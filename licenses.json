@@ -1,10 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T03:06:36.826Z",
+  "updatedAt": "2026-04-16T06:27:28.314Z",
   "licenses": [
     {
       "hash": "8a17c0e2d19337048f37b8c360124a6dcdd5d88309533c9d368ef7c26343adb9",
       "name": "Travis"
+    },
+    {
+      "hash": "74c5fd213f5d34d923453b4f012fc7bae74be3af572405a6b445e1b862cb069f",
+      "name": "David"
     }
   ]
 }
